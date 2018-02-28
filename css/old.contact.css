@@ -1,0 +1,72 @@
+
+
+
+	.primarycontent {
+	 position: absolute;
+	 top: 230px;
+	 left: 180px;
+	 width: 820px;
+	 height: 360px;
+	 overflow: auto;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 10px;
+	 text-align: left;
+	}
+	
+	.selma {
+	 position: absolute;
+	 top: 10px;
+	 left: 345px;
+	 width: 385px;
+	 height: 222px;
+	 background: url(../images/selma.jpg) no-repeat;
+	}
+	
+	.patienttext {
+	 position: absolute;
+	 top: 10px;
+	 left: 122px;
+	 width: 400px;
+	 height: 350px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 12px;
+	 text-align: left;
+	 overflow: auto;
+	}
+	
+	.patienttext span {
+	color: #f3755a;
+	font-weight: bold;
+	font-family: arial;
+	 font-weight: none;
+	 font-size: 14px;
+	 text-align: left;
+	 }
+
+	h2  {
+	position: absolute;
+	top: 130px;
+	left: 480px;
+	background: #30356c url(../images/contact_header.gif) no-repeat;
+	width: 150px;
+	height: 29px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+
+
+   .starhome {
+   position: absolute;
+   top: 390px;
+   left: 113px;
+   width: 35px;
+   height: 35px;
+   background: url(../images/star.jpg) no-repeat;
+   }
+

@@ -1,0 +1,125 @@
+
+	.primarycontent {
+	 position: absolute;
+	 top: 190px;
+	 left: 180px;
+	 width: 820px;
+	 height: 360px;
+	 overflow: auto;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 10px;
+	 text-align: left;
+	}
+	
+	
+	.subheaders {
+		position: absolute;
+		top: 130px;
+		left: 700px;
+		width: 400px;
+		}
+		
+	.subheaders  ul {
+		margin: 0;
+		padding: 0;
+		color: #9395aa;
+		list-style-type: none;
+		text-decoration: none;
+		}
+		
+	.subheaders  ul li {
+		float: left;
+		padding: .1em;
+		}
+		
+	.subheaders ul a {
+		padding: .2em;
+		margin:1em
+		line-height: 1.1em;
+		text-decoration: none;
+		}	
+		
+	.subheaders  a:link, a:visited {
+		text-decoration:none;
+		color: #9395aa;
+	    list-style-type: none;
+		text-decoration: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+		
+	.subheaders a:hover, a:active {
+		color: #30356c;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		}
+		
+	.subheaders {
+		margin:0;
+		padding:0;
+		line height: 1px;
+		color: #9395aa;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+	
+	
+	.patienttext {
+	 position: absolute;
+	 top: 10px;
+	 left: 170px;
+	 width: 400px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 12px;
+	 text-align: left;
+	}
+	
+
+	h2  {
+	position: absolute;
+	top: 130px;
+	left: 450px;
+	background: #30356c url(../images/philo_header.gif) no-repeat;
+	width: 178px;
+	height: 29px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+	
+	.thinker {
+	position: absolute;
+	top: 53px;
+	left: 348px;
+	width: 401px;
+	height: 306px;
+	background: url(../images/nurse_patient.jpg) no-repeat;
+	filter: alpha(opacity=65);-moz-opacity:.65;opacity:.65;
+	}
+	
+
+	
+	
+	
+	
+   .starhome {
+   position: absolute;
+   top: 356px;
+   left: 110px;
+   width: 35px;
+   height: 35px;
+   background: url(../images/star.jpg) no-repeat;
+   }
+

@@ -1,0 +1,33 @@
+  body {
+  width: 400px;
+  height: 500px;
+  background: url(../images/bio_bg.jpg) no-repeat;
+  }
+  
+     h2 {
+    position: absolute;
+	top: 20px;
+	left: 20px;
+   color: #30356c;
+	width: 350px;
+	height: 50px;
+	font-weight: none;
+	font-size: 18px;
+	text-align: left;
+	font-family: arial;
+   }
+  
+   #submanagement {
+   position: absolute;
+	top: 100px;
+	left: 20px;
+	color: #30356c;
+	width: 350px;
+	height: 350px;
+	font-weight: none;
+	font-size: 12px;
+	text-align: left;
+	font-family: arial;
+   }
+   
+   

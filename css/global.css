@@ -1,0 +1,205 @@
+@charset "utf-8";
+
+/* PhyChoice - Global Stylesheet */
+/* Developed by Goddess Design */
+
+
+
+body {
+text-align: center;
+background: #fff;
+}
+
+#container {
+position: relative;
+top: 0px;
+left: 0px;
+margin-left: auto;
+margin-right: auto;
+width: 993px; 
+text-align: left;
+}
+
+
+
+#content {
+position: relative;
+top: 0px;
+left: 0px;
+width: 993px;
+}
+
+
+#bgimage{
+position: relative;
+top: 0px;
+left: 0px;
+width: 993px;
+height:451px;
+background: #fff url(../images/content_bg.jpg) no-repeat top left;
+}
+
+
+.page_title {
+position: relative; left:620px; top:20px;
+}
+
+.page_body {
+	position: relative;
+	top: 30px;
+	left: -20px;	
+	width: 940px;
+
+}
+
+.sidenav {
+position: relative;
+top: 0px;
+left: 0px;
+float:left;
+width:140px;
+display: inline;
+margin: 0px;
+padding: 0px;	
+}
+
+.main_content {
+position: relative;
+top: 40px;
+left: 50px;	
+float: left;
+width: 650px;
+display: inline;
+margin: 0px;
+padding: 0px;	
+}
+
+
+
+.subtitle {
+ 	position: relative;
+	top: 0px;
+	left: 0px;
+	float:left;
+	width:97px;	
+}
+
+.information {
+ 	position: absolute;
+	top: 0px;
+	left: 110px;
+	width:747px;
+	padding-right:40px;
+	color:#707070;
+	font-size:14px;
+	font-family: times;
+	
+}
+
+.information tr td{
+	color:#707070;
+	font-size:14px;
+	font-family: times;	
+}
+
+.information tr td span{
+font-size:18px;	
+color:#005d8f;
+font-family: times;	
+}
+
+.sidebar tr td a{
+color: #707070;
+text-decoration: none;	
+font-size:12px;
+}
+
+.sidebar tr td a:hover{
+color: #005d8f;
+text-decoration: none;	
+font-size:12px;
+}
+/**HEADER**/
+
+.header_content {
+position:relative;
+top:0px;
+left:0px;	
+background: url(../images/header.jpg) no-repeat top left;
+height: 141px;
+width: 993px;		
+}
+
+.searchbox {
+position:relative;
+top:30px;
+left: 740px;	
+}
+
+/**SIDEBAR**/
+
+#flash_content05 {
+position:relative;
+top:0px;
+left:0px;	
+}
+
+.noflash {
+font-size:11px;	
+color:#005d8f;
+font-family: times;
+}
+
+
+
+
+.noflash a{
+font-size: 11px;	
+color: #616372;
+font-family: times;
+text-decoration: none;
+}
+
+.noflash a:hover{
+font-size: 11px;	
+color: #005d8f;
+font-family: times;
+text-decoration: none;
+}
+
+/**FOOTER**/
+
+.footer {
+	position:relative;
+	top:0px;
+	left:0px;	
+}
+
+.footer_content {
+position:relative;
+top:0px;
+left:0px;	
+background: url(../images/bottomnav.gif) no-repeat;
+height: 100px;
+width: 993px;		
+}
+
+.copyright {
+	position:relative;
+	top:80px;
+	left:0px;
+	text-align: center;
+	color: white;
+	font-size:11px;
+	font-family: times;	
+}
+
+.copyright a{
+color: #fff;
+text-decoration:none;	
+}
+
+.copyright a:hover{
+color:#71d7fa;
+text-decoration:none;
+}

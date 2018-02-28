@@ -1,0 +1,71 @@
+
+	h2  {
+	position: absolute;
+	top: 130px;
+	left: 480px;
+	background: #30356c url(../images/aboutus_header.gif) no-repeat;
+	width: 115px;
+	height: 29px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+	
+	.subheaders {
+		position: absolute;
+		top: 105px;
+		left: 640px;
+		width: 400px;
+		}
+		
+	.subheaders  ul {
+		margin: 0;
+		padding: 0;
+		color: #9395aa;
+		list-style-type: none;
+		text-decoration: none;
+		}
+		
+	.subheaders  ul li {
+		float: left;
+		padding: 1.5em;
+		}
+		
+	.subheaders ul a {
+		padding: .2em;
+		margin:1em;
+		line-height: 1.1em;
+		text-decoration: none;
+		}	
+		
+	.subheaders  a:link, a:visited {
+		text-decoration:none;
+		color: #9395aa;
+	    list-style-type: none;
+		text-decoration: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+		
+	.subheaders a:hover, a:active {
+		color: #30356c;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		}
+		
+	.subheaders {
+		margin:0;
+		padding:0;
+		line height: 1px;
+		color: #9395aa;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}

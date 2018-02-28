@@ -1,0 +1,95 @@
+
+	.primarycontent {
+	 position: absolute;
+	 top: 200px;
+	 left: 210px;
+	 width: 600px;
+	 height: 350px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 10px;
+	 text-align: left;
+	}
+	
+	
+	.patienttext {
+	 position: absolute;
+	 top: 0px;
+	 left: 120px;
+	 width: 500px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 12px;
+	 text-align: left;
+	}
+	
+	.smallprint {
+	position: relative;
+	top: 100px;
+	left: 20px;
+	width: 300px;
+	text-decoration: none;
+	color: #9395aa;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	}
+	
+	.smallprint span{
+	text-decoration: none;
+	color: #30356c;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
+	.smallprint a:visited {
+	text-decoration: none;
+	color: #9395aa;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
+	.smallprint a {
+	text-decoration: none;
+	color: #9395aa;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
+	.smallprint a:hover, a active {
+	color: #30356c;
+	text-decoration: none;
+	text-align: left;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bold; 
+	}	
+	
+
+	
+	
+
+	h2  {
+	position: absolute;
+	top: 130px;
+	left: 530px;
+	background: #30356c url(../images/patients_header.jpg) no-repeat;
+	width: 105px;
+	height: 29px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+	
+	
+   .starhome {
+   position: absolute;
+   top: 285px;
+   left: 115px;
+   width: 35px;
+   height: 35px;
+   background: url(../images/star.jpg) no-repeat;
+   }

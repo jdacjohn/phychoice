@@ -1,0 +1,47 @@
+ul.amenities {
+font-size: 16px;
+line-height: 22px;	
+}
+
+ul.amenities li span{
+color:#707070;
+font-size:16px;
+}
+
+ul.amenities li {
+color:#005d8f;
+}
+
+.teamshortbios tr td {
+font-size: 13px;
+}
+
+.teamshortbios tr td span{
+color: #005d8f;
+}
+
+.teamshortbios tr td a{
+color: #005d8f;
+}
+
+.teamshortbios tr td a:hover{
+color: #71d7fa;
+}
+
+.bios {
+text-align: justify;
+}
+
+ul.partnerships {
+font-size: 14px;
+line-height: 22px;	
+}
+
+ul.partnerships li span{
+color:#707070;
+font-size:14px;
+}
+
+ul.partnerships li {
+color:#005d8f;
+}

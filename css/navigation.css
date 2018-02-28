@@ -1,0 +1,141 @@
+
+	
+	.navigation a:visited {
+	color: #fff;
+	text-decoration: none;
+	text-align: left;
+	font-family: arial, geneva, helvetica, helv, sans-serif;
+	font-size: 14px;
+		}
+		
+		.navigation a {
+		color: #fff;
+		text-decoration: none;
+		text-align: left;
+		font-family: arial;
+		font-size: 14px;
+		font-weight: bold; 
+	}
+	
+	.navigation a:hover, a active {
+		color: #31366c;
+		text-decoration: none;
+		text-align: left;
+		font-family: arial;
+		font-size: 14px;
+		font-weight: bold; 
+		}	
+		
+		
+	.homenav {
+	position: absolute;
+	top: 190px;
+	left: 170px;
+	}
+	
+	.partnernav {
+	position: absolute;
+	top: 225px;
+	left: 25px;
+	}
+	.facilitiesnav {
+	position: absolute;
+	top: 260px;
+	left: 105px;
+	}
+	.patientsnav {
+	position: absolute;
+	top: 295px;
+	left: 100px;
+	}
+	
+	.newsnav {
+	position: absolute;
+	top: 330px;
+	left: 110px;
+	}
+	
+	.aboutnav {
+	position: absolute;
+	top: 365px;
+	left: 85px;
+	}
+	
+	.contactnav {
+	position: absolute;
+	top: 400px;
+	left: 80px;
+	}
+	
+	.phone {
+	position: absolute;
+	top: 398px;
+	left: 46px;
+	background: url(../images/phone.gif) no-repeat;
+	width: 25px;
+	height: 18px;
+	}
+	
+			
+	 .navigation span {
+		color: #31366c;
+		text-decoration: none;
+		text-align: left;
+		font-family: arial;
+		font-size: 14px;
+		font-weight: bold; 
+		}
+	
+		
+	#bottomnav {
+		position: absolute;
+		top: 560px;
+		left: 330px;
+		width: 700px;
+		}
+		
+	#bottomnav  ul {
+		margin: 0;
+		padding: 0;
+		color: #30356c;
+		list-style-type: none;
+		}
+		
+	#bottomnav  ul li {
+		float: left;
+		padding: .6em;
+		}
+		
+	#bottomnav  ul a {
+		padding: .1em;
+		margin: 0;
+		line-height: 1.1em;
+		font-size: 11px;
+		font-family: arial;
+		text-align: center;
+		color: #30356c;
+		text-decoration: none;
+		}	
+		
+		
+	#bottomnav  a:hover {
+		text-decoration: underline;
+		}
+
+		
+
+	.goddessdesign {
+		position: absolute;
+		top: 590px;
+		left: 380px;
+		width: 400px;
+		margin:0;
+		padding:0;
+		line height: 1px;
+		color: #5ac190;
+	    list-style-type: none;
+		text-decoration: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 9px;
+		}

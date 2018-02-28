@@ -1,0 +1,26 @@
+
+
+.newsitems tr td span{
+color: #005d8f;
+}
+
+.newsitems tr td a{
+color: #707070;
+}
+
+.newsitems tr td a:hover{
+color: #71d7fa;
+}
+
+.index_news tr td span{
+color: #005d8f;
+}
+
+.index_news tr td a{
+color: #707070;
+}
+
+.index_news tr td a:hover{
+color: #71d7fa;
+}
+

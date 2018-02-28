@@ -1,0 +1,147 @@
+.subheaders {
+		position: absolute;
+		top: 120px;
+		left: 630px;
+		width: 400px;
+		height: 100px;
+		}
+		
+	.subheaders  ul {
+		margin: 0;
+		padding: 0;
+		color: #9395aa;
+		list-style-type: none;
+		text-decoration: none;
+		}
+		
+	.subheaders  ul li {
+		float: left;
+		padding: 1.5em;
+		}
+		
+	.subheaders ul a {
+		padding: .2em;
+		margin:1em;
+		line-height: 1.1em;
+		text-decoration: none;
+		}	
+		
+	.subheaders  a:link, a:visited {
+		text-decoration:none;
+		color: #9395aa;
+	    list-style-type: none;
+		text-decoration: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+		
+	.subheaders a:hover, a:active {
+		color: #30356c;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		}
+		
+	.subheaders {
+		margin:0;
+		padding:0;
+		line height: 1px;
+		color: #9395aa;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+
+
+
+	.primarycontent {
+	 position: absolute;
+	 top: 200px;
+	 left: 160px;
+	 width: 820px;
+	 height: 360px;
+	 overflow: auto;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 10px;
+	 text-align: left;
+	}
+	
+	
+	
+	.patienttext {
+	 position: absolute;
+	 top: 0px;
+	 left: 165px;
+	 width: 400px;
+	 height: 350px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: bold;
+	 font-size: 11px;
+	 text-align: left;
+	 overflow: auto;
+	 padding: 20px;
+	}
+	
+	.patienttext span {
+	color: #f3755a;
+	font-weight: bold;
+	font-family: arial;
+	 font-weight: none;
+	 font-size: 12px;
+	 text-align: left;
+	 }
+
+	h2  {
+	position: absolute;
+	top: 130px;
+	left: 480px;
+	background: #30356c url(../images/news_header.gif) no-repeat;
+	width: 72px;
+	height: 29px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+	
+	h3  {
+	position: absolute;
+	top: 130px;
+	left: 480px;
+	background: #30356c url(../images/awards_header.gif) no-repeat;
+	width: 100px;
+	height: 29px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+	
+	
+	.newsboy {
+	position: absolute;
+	top: 70px;
+	left: 450px;
+	width: 267px;
+	height: 266px;
+	background: url(../images/newsboy.gif) no-repeat;
+	filter: alpha(opacity=40);-moz-opacity:.40;opacity:.40;
+	}
+
+   .starhome {
+   position: absolute;
+   top: 320px;
+   left: 113px;
+   width: 35px;
+   height: 35px;
+   background: url(../images/star.jpg) no-repeat;
+   }
+

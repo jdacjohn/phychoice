@@ -1,0 +1,159 @@
+
+	.primarycontent {
+	 position: absolute;
+	 top: 190px;
+	 left: 150px;
+	 width: 775px;
+	 height: 350px;
+	 overflow: auto;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 10px;
+	 text-align: left;
+	}
+	
+	
+	.subheaders {
+		position: absolute;
+		top: 130px;
+		left: 700px;
+		width: 400px;
+		}
+		
+	.subheaders  ul {
+		margin: 0;
+		padding: 0;
+		color: #9395aa;
+		list-style-type: none;
+		text-decoration: none;
+		}
+		
+	.subheaders  ul li {
+		float: left;
+		padding: .2em;
+		}
+		
+	.subheaders ul a {
+		padding: .2em;
+		margin:1em
+		line-height: 1.1em;
+		text-decoration: none;
+		}	
+		
+	.subheaders  a:link, a:visited {
+		text-decoration:none;
+		color: #9395aa;
+	    list-style-type: none;
+		text-decoration: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+		
+	.subheaders a:hover, a:active {
+		color: #30356c;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		}
+		
+	.subheaders {
+		margin:0;
+		padding:0;
+		line height: 1px;
+		color: #9395aa;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+	
+	
+	.patienttext {
+	 position: absolute;
+	 top: 10px;
+	 left: 200px;
+	 width: 400px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 12px;
+	 text-align: left;
+	}
+	
+	
+	.managementtextleft {
+	 position: absolute;
+	 top: 10px;
+	 left: 120px;
+	 width: 275px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 11px;
+	 text-align: left;
+	}
+	
+	.managementtextleft a {
+	 color: blue;
+	 text-decoration: underline;
+	 font-weight: none;
+	 }
+	 
+	 .managementtextright a {
+	 color: blue;
+	  text-decoration: underline;
+	 font-weight: none;
+	 }
+	 
+	 .managementtextleft a:visited, a:active, a:hover {
+	 color: blue;
+	 font-weight: none;
+	 }
+	 
+	  .managementtextright a:visited, a:active, a:hover{
+	  color: blue;
+	  font-weight: none;
+	 }
+	 
+	
+	.managementtextright {
+	 position: absolute;
+	 top: 10px;
+	 left: 460px;
+	 width: 275px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 11px;
+	 text-align: left;
+	}
+
+	h2  {
+	position: absolute;
+	top: 130px;
+	left: 480px;
+	background: #30356c url(../images/management_header.gif) no-repeat;
+	width: 155px;
+	height: 29px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+	
+	
+   .starhome {
+   position: absolute;
+   top: 356px;
+   left: 110px;
+   width: 35px;
+   height: 35px;
+   background: url(../images/star.jpg) no-repeat;
+   }
+
+

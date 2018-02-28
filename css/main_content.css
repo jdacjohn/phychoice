@@ -1,0 +1,62 @@
+	 body {
+ 		background: #eee7cb repeat-x;
+		height: 600px;
+		width: 950px;
+		color: #30356c
+		}
+		
+	#bodybg {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		background: #fff url(../images/main_background.jpg) no-repeat;
+		width: 950px;
+		height: 605px;
+		color: #30356c;
+		text-decoration: none;
+		text-align: center;
+		font-family: times new roman;
+		font-size: 11px;
+		}
+		
+		
+	
+	.motto {
+	position: absolute;
+	top: 30px;
+	left: 400px;
+	width: 225px;
+	color: #30356c;
+	font-family: arial;
+	font-size: 13px;
+	font-weight: bold;
+	font-style: italic;
+		}
+		
+	.phonenumber {
+	position: absolute;
+	top: 50px;
+	left: 400px;
+	width: 200px;
+	color: #f3755a;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+     }
+	 
+	.locations {
+		position: absolute;
+	top: 90px;
+	left: 645px;
+	width: 400px;
+	color: #30356c;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;
+	font-style: italic;
+		}
+	
+
+	
+

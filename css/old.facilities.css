@@ -1,0 +1,129 @@
+
+	.primarycontent {
+	 position: absolute;
+	 top: 200px;
+	 left: 260px;
+	 width: 620px;
+	 height: 325px;
+	 overflow: auto;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 12px;
+	 text-align: left;
+	}
+	
+	#locations a: link, a: visited {
+	text-decoration: underline;
+	color: #324434;
+	}
+	#locations a: hover, a: active {
+	text-decoration: underline;
+	color: #30356c;
+	} 
+	
+	
+	#locations {
+	 position: absolute;
+	 top: 250px;
+	 left: 30px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: bold;
+	 font-size: 12px;
+	 text-align: left;
+	 text-decoration: underline;
+	}
+	
+	#facilities {
+	position: absolute;
+	 top: 0px;
+	 left: 20px;
+	 color: #30356c;
+	 width: 600px;
+	 }
+	 
+	 .address {
+	 font-family: arial;
+	 font-weight: none;
+	 text-decoration: none;
+	 font-size: 11px;
+	 text-align: left;
+	 color: #30356c;
+	}
+	
+	#tollfreebox {
+	position: absolute;
+	top: 0px;
+	left: 450px;
+	width: 150px;
+	height: 102px;
+	background: url(../images/minimap.jpg) no-repeat;
+	font-family: arial;
+	font-weight: none;
+	text-decoration: none;
+	font-size: 12px;
+	text-align: left;
+	margins: 0px;
+	padding: 1em 1em 1em;
+	color: 30356c;
+	 }
+	 
+	
+	#facilities span {
+	text-decoration: none;
+	color: #30356c;
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: underline;
+	}
+	
+	.smallprint {
+	text-decoration: none;
+	color: #30356c;
+	font-size: 11px;
+	}
+	
+	.map {
+	position: absolute;
+	top: 0px;
+	left: 250px;
+	background: url(../images/usa_map.gif) no-repeat;
+	width: 363px;
+	height: 247px;
+	}
+	
+	.maptext {
+	 position: absolute;
+	 top: 30px;
+	 left: 0px;
+	 width: 250px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 12px;
+	 text-align: left;
+	 }
+	
+	
+	h2  {
+	position: absolute;
+	top: 130px;
+	left: 480px;
+	background: #30356c url(../images/facilities_header.jpg) no-repeat;
+	width: 113px;
+	height: 25px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+	
+   .starhome {
+   position: absolute;
+   top: 250px;
+   left: 125px;
+   width: 35px;
+   height: 35px;
+   background: url(../images/star.jpg) no-repeat;
+   }

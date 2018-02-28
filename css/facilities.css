@@ -1,0 +1,25 @@
+
+
+
+
+.facilities_links tr td a{
+color: #707070;
+font-size:16px;
+text-decoration:none;
+}
+
+.facilities_links tr td a:hover{
+color: #71d7fa;
+font-size:16px;
+text-decoration:none;
+}
+
+.state_facilities tr td {
+color: #707070;
+font-size:14px;
+}
+
+.state_facilities tr td span{
+color: #005d8f;
+font-size:16px;
+}

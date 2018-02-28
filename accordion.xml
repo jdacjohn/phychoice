@@ -1,0 +1,66 @@
+	
+
+<accodion>
+		<item name="HOME" url="index.asp" target="_parent"></item>
+		
+		
+	<item name="ABOUT US">
+	
+			<item name="Mission"  url="about.asp" target="_parent"></item>
+		<item name="Philosophy"  url="about_philosophy.asp" target="_parent"></item>
+		<item name="Our Team"  url="about_ourteam.asp" target="_parent"></item>
+		<item name="Amenities"  url="about_amenities.asp" target="_parent"></item>
+		
+		
+
+		</item><!-- END ABOUT US SECTION -->
+		
+		
+				<item name="PARTNERSHIPS"  url="partnerships.asp" target="_parent"></item>
+		<!-- END PARTNERSHIP SECTION -->
+		
+		<item name="FACILITIES">
+			
+			<item name="Overview" url="facilities.asp" target="_parent"></item>
+			<item name="Alabama" url="facilities_alabama.asp" target="_parent"></item>
+			<item name="Georgia" url="facilities_georgia.asp" target="_parent"></item>
+			<item name="New Jersey" url="facilities_newjersey.asp" target="_parent"></item>
+			<item name="Ohio" url="facilities_ohio.asp" target="_parent"></item>
+			<item name="Oklahoma" url="facilities_oklahoma.asp" target="_parent"></item>
+			<item name="Texas" url="facilities_texas.asp" target="_parent"></item>
+		
+		</item> <!-- END FACILITIES SECTION -->
+		
+		
+			<item name="PATIENTS" url="patients.asp" target="_parent"></item>
+	<!-- END PATIENTS SECTION -->
+	
+			
+			<item name="NEWS">
+			<item name="news" url="news.asp" target="_parent"></item>
+			<item name="awards" url="awards.asp" target="_parent"></item>
+			</item>
+	<!-- END NEWS SECTION -->
+	
+
+		
+		<item name="CAREERS">
+			<item name="overview" url="opportunities.asp" target="_parent"></item>
+			<item name="opportunities" url="job_opportunities.asp" target="_parent"></item>
+			<item name="benefits" url="benefits.asp" target="_parent"></item>
+		<item name="application" url="application.asp" target="_parent"></item>
+		
+		</item> <!-- END CAREERS SECTION -->
+		
+			<item name="CONTACT">
+				<item name="contact us" url="contact.asp" target="_parent"></item>
+			
+
+			</item> <!-- END CONTACT SECTION -->
+
+
+
+
+
+
+</accodion>

@@ -1,0 +1,228 @@
+	
+	h2  {
+	position: absolute;
+	top: 130px;
+	left: 450px;
+	background: #30356c url(../images/aboutus_header.gif) no-repeat;
+	width: 115px;
+	height: 29px;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	}
+	
+	.subheaders {
+		position: absolute;
+		top: 130px;
+		left: 700px;
+		width: 400px;
+		}
+		
+	.subheaders  ul {
+		margin: 0;
+		padding: 0;
+		color: #9395aa;
+		list-style-type: none;
+		text-decoration: none;
+		}
+		
+	.subheaders  ul li {
+		float: left;
+		padding: .1em;
+		}
+		
+	.subheaders ul a {
+		padding: .2em;
+		margin:1em;
+		line-height: 1.1em;
+		text-decoration: none;
+		}	
+		
+	.subheaders  a:link, a:visited {
+		text-decoration:none;
+		color: #9395aa;
+	    list-style-type: none;
+		text-decoration: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+		
+	.subheaders a:hover, a:active {
+		color: #30356c;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		}
+		
+	.subheaders {
+		margin:0;
+		padding:0;
+		line height: 1px;
+		color: #9395aa;
+	    list-style-type: none;
+		text-align: center;
+		font-family: arial;
+		font-size: 11px;
+		font-weight: bold;
+		}
+	
+	.primarycontent {
+	 position: absolute;
+	 top: 110px;
+	 left: 180px;
+	 width: 820px;
+	 height: 460px;
+	 overflow: auto;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 10px;
+	 text-align: left;
+	}
+	 
+	.patienttext {
+	 position: absolute;
+	 top: 80px;
+	 left: 100px;
+	 width: 270px;
+	 color: #30356c;
+	 font-family: arial;
+	 font-weight: none;
+	 font-size: 11px;
+	 text-align: left;
+	 text-indent: 0px;
+	}
+
+	.staff  {
+	position: absolute;
+	top: 25px;
+	left: 380px;
+	background: url(../images/biggroupphoto.jpg) no-repeat;
+	width: 359px;
+	height: 434px;
+	filter: alpha(opacity=72);-moz-opacity:.72;opacity:.72;
+	}
+	
+	.key {
+	position: absolute;
+	top: 280px;
+	left: 20px;
+	background: url(../images/key.gif) no-repeat;
+	width: 207px;
+	height: 75px;
+	filter: alpha(opacity=39);-moz-opacity:.39;opacity:.39;
+	}
+	
+	
+	
+	
+	.mission {
+	position: absolute;
+	top: 310px;
+	left: 60px;
+	width: 300px;
+	font-style: italic;
+	color: #30356c;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	}
+	
+	.mission span{
+	text-decoration: underline;
+	color: #30356c;
+	font-size: 18px;
+	font-weight: bold;
+	}
+	
+	.smallprint a:visited {
+	text-decoration: none;
+	color: #9395aa;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
+	.smallprint a {
+	text-decoration: none;
+	color: #9395aa;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
+	.smallprint a:hover, a active {
+	color: #30356c;
+	text-decoration: none;
+	text-align: left;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bold; 
+	}	
+	
+
+	
+	
+
+	
+	
+	
+	.doctorpic {
+	position: absolute;
+	top:190px;
+	left: 100px;
+	background: url(../images/about_pic.gif) no-repeat;
+	width: 400px;
+	height: 174px;
+	filter: alpha(opacity=72);-moz-opacity:.72;opacity:.72;
+	}
+	
+	.quality {
+	position: absolute;
+	top: 160px;
+	left: 80px;
+	color: #30356c; 
+	font-family: times new roman;
+	font-style: italic;
+	font-size: 30px;
+	text-align: left;
+	
+	}
+	
+	.variety {
+	position: absolute;
+	top: 210px;
+	left: 120px;
+	color: #30356c; 
+	font-family: times new roman;
+	font-style: italic;
+	font-size: 30px;
+	text-align: left;
+	filter: alpha(opacity=85);-moz-opacity:.85;opacity:.85;
+	}
+	
+	.schedule {
+	position: absolute;
+	top: 260px;
+	left: 160px;
+	color: #30356c; 
+	font-family: times new roman;
+	font-style: italic;
+	font-size: 30px;
+	text-align: left;
+	filter: alpha(opacity=65);-moz-opacity:.65;opacity:.65;
+	}
+	
+	
+	
+   .starhome {
+   position: absolute;
+   top: 356px;
+   left: 110px;
+   width: 35px;
+   height: 35px;
+   background: url(../images/star.jpg) no-repeat;
+   }
+

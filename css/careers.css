@@ -1,0 +1,88 @@
+ul.opportunities {
+font-size: 14px;
+line-height: 26px;	
+}
+
+ul.opportunities li {
+list-style-type: square;
+color:#9fe0c8;
+font-size:14px;
+}
+
+ul.opportunities li span{
+color:#005d8f;
+}
+
+ul.opportunities li a{
+color:#005d8f;
+font-size:14px;
+}
+
+ul.opportunities li a:hover{
+color:#71d7fa;
+}
+
+.opps_landing {
+color:#005d8f;	
+}
+
+.opps_landing a{
+color:#b9b9b9;
+font-size: 16px;
+}
+
+.opps_landing a:hover{
+color:#71d7fa;
+font-size: 16px;
+}
+
+.jobdescriptions {
+text-align: left;	
+}
+
+.jobdescriptions ul li a {
+color:#005d8f;	
+}
+
+.numberedlist tr td{
+color:#707070;
+line-height: 18px;
+	
+}
+
+.jobdescriptions ul li a:hover {
+color:#71d7fa;	
+}
+
+.jd_bodybg {
+background: url('../images/job_description.jpg') no-repeat;	
+width: 500px;
+height:700px;
+}
+
+.jd_content {
+position: relative;
+top:140px;
+left:50px;
+color:#787878;
+font-family: times;
+font-size:14px;	
+width:400px;
+}
+
+.jd_content span{
+color:#005d8f;
+font-weight:bold;	
+}
+
+.information tr td a {
+color:#005d8f;	
+}
+
+.information tr td a:hover {
+color:#787878;	
+}
+
+.information tr td {
+color:#787878;	
+}

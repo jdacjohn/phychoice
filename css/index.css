@@ -1,0 +1,18 @@
+.flashmovie {
+	position: absolute;
+	top: 150px;
+	left: 315px;
+	width: 550px;
+	height: 440px;
+	}
+	
+	
+.maingraphic {
+position: absolute;
+top: 130px;
+left: 315px;
+width: 550px;
+height: 440px;
+background: url(../images/index_graphic.gif) no-repeat;
+}
+	
